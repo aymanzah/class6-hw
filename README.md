@@ -1,6 +1,11 @@
 # class6-hw
 class6 homework
 
+The script can be run through:
+
+python3 generic_parser_visualizer.py housing.data.txt
+
+
 The figure below has a kind of an interesting representation involving room number, price, population and distance to rmployment center:
 class6-hw/3d_fig/3D_RM_LSTAT_MEDV_DIS_PTRATIO_INDUS.png
 
